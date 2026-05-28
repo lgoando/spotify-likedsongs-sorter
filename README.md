@@ -1,5 +1,3 @@
-# spotify-likedsongs-sorter
-
 A collection of Python scripts for managing your Spotify library with Claude AI and Last.fm.
 
 ## Scripts

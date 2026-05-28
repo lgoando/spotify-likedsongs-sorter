@@ -1,0 +1,27 @@
+# Credentials — never commit these
+.env
+
+# Spotify OAuth token cache
+.spotify_cache
+
+# AI / Last.fm classification caches (auto-regenerated)
+.ai_cache.json
+.lastfm_cache.json
+
+# Vibe playlist state
+.vibe_cache.json
+.vibe_design.json
+.vibe_history.json
+.vibe_playlists.json
+
+# Your exported song list
+liked_songs.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
